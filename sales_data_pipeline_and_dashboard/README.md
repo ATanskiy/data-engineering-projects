@@ -11,11 +11,11 @@ This project demonstrates a complete data engineering flow — from raw data ing
 ```
 sales_data_pipeline_and_dashboard/
 │
-├── eda/                         # Exploratory data analysis (if available)
+├── eda/                         # Exploratory data analysis
 ├── etl/                         # ETL notebook and transformation logic
-├── schema/                      # ERD / schema design or table mapping
-├── dashboard/                   # Power BI report (.pbix or screenshots)
-├── data_links.txt              # Google Drive links to large files
+├── schema/                      # schema design
+├── dashboard/                   # Power BI report (.pbix)
+├── data_links.txt               # Google Drive links to large files
 └── README.md                    # This file
 ```
 

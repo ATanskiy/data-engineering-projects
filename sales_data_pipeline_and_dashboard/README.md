@@ -40,6 +40,7 @@ This project focuses on integrating, transforming, and visualizing online and of
 - `Power BI` for dashboarding
 - `Git` for version control
 - `Google Drive` for hosting files >100MB
+- `Lucid` for building a schema
 
 ---
 

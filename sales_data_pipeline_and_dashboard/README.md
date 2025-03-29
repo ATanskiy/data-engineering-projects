@@ -28,7 +28,7 @@ This project focuses on integrating, transforming, and visualizing online and of
 ### ✅ Key Steps:
 
 1. **Exploratory Data Analysis (EDA)** – examined trends, outliers, and structure of both datasets.
-2. **Schema Design** – created dimension and fact tables for a clean star schema.
+2. **Schema Design** – created dimension and fact tables for a clean snowflake schema.
 3. **ETL Development** – unified datasets, cleaned and transformed data in Python.
 4. **Power BI Dashboard** – loaded processed data and built a multi-tab dashboard.
 
